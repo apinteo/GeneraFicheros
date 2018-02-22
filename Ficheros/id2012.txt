@@ -1,0 +1,5 @@
+Nombre: Santiago Pérez
+DNI: 12345678A
+Teléfono: 654321321
+Nacionalidad: ESPAÑOL
+Media: 137.3

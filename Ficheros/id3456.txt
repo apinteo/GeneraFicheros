@@ -1,0 +1,5 @@
+Nombre: Manuel Lora
+DNI: 34534523B
+Teléfono: 678567465
+Nacionalidad: ITALIANO
+Media: 98.417496
